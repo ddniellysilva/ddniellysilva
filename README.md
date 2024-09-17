@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Ⅰ. sobre mim:</h3>
+<h3 align="left">𝐈. sobre mim:</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">ⅠⅠ. linguagens e ferramentas:</h3>
+<h3 align="left">𝐈𝐈. linguagens e ferramentas:</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">ⅠⅠⅠ. me encontre por aí:</h3>
+<h3 align="left">𝐈𝐈𝐈. me encontre por aí:</h3>
 
 ###
 
