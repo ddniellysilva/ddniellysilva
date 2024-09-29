@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">prazer, me chamo Danielly! <br><br> 👩🏻‍💻 sou bacharelanda em ciência da computação | ifce (4/8)<br>🌟 entusiasta da área de ciência de dados</p>
+<p align="left">prazer, me chamo Danielly! <br><br> 👩🏻‍💻 sou bacharelanda em ciência da computação | ifce (5/8)<br>🌟 entusiasta da área de ciência de dados</p>
 
 ###
 
