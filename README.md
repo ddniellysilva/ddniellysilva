@@ -4,7 +4,7 @@
 
 ### Olá, meu nome é Danielly!
 
-<p>• bacharelanda em ciência da computação<br/>• analista de dados | pesquisadora</p>
+<p>bacharelanda em ciência da computação<br/>analista de dados | pesquisadora</p>
 
 #### linguagens e ferramentas:
 
